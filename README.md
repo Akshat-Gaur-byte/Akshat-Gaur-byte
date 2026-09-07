@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Akshat-Gaur-byte/Akshat-Gaur-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akshat Gaur, a B.Tech student interested in programming,
+AI, data science and software development.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* Data Structures & Algorithms
+* AI & Machine Learning
+* Git & GitHub
+
+### 🔭 Currently working on
+
+* Building programming projects
+* Improving my problem-solving skills
+* Learning software development
+
+### 📚 Education
+
+B.Tech Student
